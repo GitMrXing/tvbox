@@ -30,7 +30,7 @@
 	"播放列表": "",
 	"播放标题": "\">&&</a>",
 	"播放链接": "href=\"&&\"",
-	"分类url": "https://91mjw.tv/list-select-id-{cateId}-type-{class}-area-{area}-letter--year-{year}-star--state--order-addtime-p-{catePg}.html",
+	"分类url": "https://91mjw.tv/category/kehuanpian",
 	"分类": "美剧$2#欧美电影$1#动漫$3#综艺$4#",
 	"筛选": {
 		"1": [
